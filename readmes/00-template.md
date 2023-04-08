@@ -3,7 +3,8 @@
 ---
 
 - ### [Introduction](#Introduction)
-- ### [Stubs: casting as particular object](#Stubs:_casting_as_particular_object)
+- ### [Why we need tests](#Why_we_need_tests)
+
 
 ---
 
@@ -17,7 +18,7 @@ Certified doge practitioner.
 
 ---
 
-## <a name="Stubs:_casting_as_particular_object"></a>Stubs: casting as particular object
+## <a name="Why_we_need_tests"></a>Why we need tests
 
 Since we're now working with an HTTP Server our project folder has changed:
 
