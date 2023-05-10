@@ -5,7 +5,6 @@
 - ### [Introduction](#Introduction)
 - ### [Why we need tests](#Why_we_need_tests)
 
-
 ---
 
 ## <a name="Introduction"></a>Introduction
@@ -31,7 +30,7 @@ We can also do this from _Insomnia_ or _Postman_ but **_being able to make reque
 ### 08 <span style="color: #4B58A1">`npm init`</span> - Inits _package.json_
 
 ```js
-var x = 1
+var x = 1;
 ```
 
 ---
@@ -39,5 +38,3 @@ var x = 1
 - [Top](#Back_To_Top)
 
 ---
-
-
